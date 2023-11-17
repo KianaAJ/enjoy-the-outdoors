@@ -1,0 +1,17 @@
+html {
+    box-sizing: border-box;
+}
+
+.nav-link{
+    color: #699E3C;
+    font-size: large;
+
+}
+
+body {
+    background-image: linear-gradient(white, #699E3C);
+}
+
+footer {
+    color: rgb(169, 248, 173);
+}

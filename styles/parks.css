@@ -1,0 +1,31 @@
+h3 {
+    color: #699E3C;
+}
+
+border.box {
+    background-size: cover
+}
+
+#main {
+    top: 150px;
+    padding-top: 250;
+}
+
+.jumbotron {
+    background-color: rgba(172, 255, 99, 0.8); /* Background color with opacity */
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0px 2px 5px rgba(99, 85, 85, 0.1);
+}
+
+.jumbotron h1 {
+    color: #27a014;
+}
+
+.jumbotron p {
+    color: #495057;
+}
+
+.jumbotron hr {
+    background-color: #007bff;
+}

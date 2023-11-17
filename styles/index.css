@@ -1,0 +1,18 @@
+p {
+    font-size: large;
+    color: rgb(34, 34, 34);
+}
+
+h1 {
+    color: green;
+    font-size: larger;
+}
+
+.benefits {color: rgb(220, 255, 209);}
+
+h3 {
+    color: green;
+    display: flex;
+    justify-content: baseline;
+    font-style: italic;
+}
