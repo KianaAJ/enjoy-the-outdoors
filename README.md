@@ -16,7 +16,7 @@ Embark on a quest to explore the world's most enchanting parks with our comprehe
 ### Home
 This the landing page for my website Wander Ways Co which allows you to search for Mountain Info and Search for Parks by Location and Park Types!
 
-![Home Page of Website](!(image.png))
+![Home Page of Website](image.png)
 
 National Park
 ![Parks Search Page](!(image-1.png))
