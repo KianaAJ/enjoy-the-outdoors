@@ -5,10 +5,10 @@ HTML, CSS and JS project
 
 Welcome to Wander Ways Co., your ultimate destination for exploring the majestic beauty of mountains and parks around the world! Immerse yourself in the wonders of nature as you embark on a journey to discover valuable information about mountains and parks tailored to your preferences.
 
-Mountain Explorer:
+Mountain Explorer Info Page:
 Unleash the adventurer in you by accessing a wealth of information on mountains from every corner of the globe. Whether you're an avid mountaineer, a casual hiker, or simply a nature enthusiast, Wander Ways Co. is your go-to resource for detailed mountain profiles, trail maps, elevation data, and captivating images. Navigate through our user-friendly interface to find the perfect mountain for your next expedition, and uncover hidden gems that will leave you in awe of the Earth's breathtaking landscapes.
 
-Park Discovery:
+Park Discovery Search By Location and Park Type:
 Embark on a quest to explore the world's most enchanting parks with our comprehensive Park Discovery feature. Search for parks based on location, allowing you to plan your next outdoor adventure with ease. Whether you're seeking a serene national park, a bustling urban oasis, or a coastal reserve, Wander Ways Co. has you covered. Refine your search by park types, from wildlife sanctuaries and botanical gardens to historical landmarks, ensuring that every outing aligns perfectly with your interests.
 
 ## Pages
