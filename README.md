@@ -19,10 +19,10 @@ This the landing page for my website Wander Ways Co which allows you to search f
 ![Home Page of Website](image.png)
 
 National Park
-![Parks Search Page](!(image-1.png))
+![Parks Search Page](image-1.png)
 
 Mountain info
-![Mountain Info Page](!(image-2.png))
+![Mountain Info Page](image-2.png)
 
 ### Interesting Code Snippet
 
